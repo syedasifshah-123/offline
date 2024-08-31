@@ -1,0 +1,98 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+}
+
+
+/* Color Picker */
+
+
+/* .banner {
+    width: 800px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.banner .img-cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.banner .data {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.data button {
+    width: 50%;
+    background-color: cornflowerblue;
+    color: white;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
+.data p {
+    width: 50%;
+    text-align: center;
+    padding-block: 15px;
+    background-color: cornflowerblue;
+    color: white;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+} */
+
+
+
+/* Draggable Element */
+
+/* .draggable {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 300px;
+    border-radius: 20px;
+    width: 300px;
+    background-color: cadetblue;
+    cursor: move;
+} */
+
+
+
+
+/* Map Location btn  */
+
+button {
+    padding-inline: 20px;
+    padding-block: 12px;
+    font-size: 18px;
+    background-color: cadetblue;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 50px;
+}
